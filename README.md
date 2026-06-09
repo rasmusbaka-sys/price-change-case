@@ -11,6 +11,7 @@ Systemet:
 ● Eksporterer både CSV- og Markdown-rapport
 ● Udskriver farvekodet oversigt i terminalen
 Løsningen er designet til at kunne køre som et batch-script uden UI.
+
 Sådan køres løsningen
 1) Installer afhængigheder
 pip install pandas
@@ -29,10 +30,12 @@ price_report.csv
 price_report.md
 3) Kør scriptet
 python src/main.py
+
 Output:
 ● Farvekodet tabel i terminalen
 ● output/price_report.csv
 ● output/price_report.md
+
 Arkitektur
 Parser (parser.py)
 ● Loader CSV-filer
@@ -99,6 +102,7 @@ Hvis løsningen skulle i produktion:
 ● Fejlhåndtering
 ● Scheduling - eksempelvis “kør når leverandør uploader en fil” eller “hver gang der
 kommer en ny prisfil”
+
 Output
 CSV
 output/price_report.csv
@@ -106,6 +110,7 @@ Markdown
 output/price_report.md
 Terminal
 Farvekodet tabel for hurtig visning
+
 Test
 Du kan teste funktionalitet ved at ændre:
 ● cost_price
