@@ -121,6 +121,7 @@ Terminal
 Farvekodet tabel for hurtig visning
 
 Test
+
 Du kan teste funktionalitet ved at ændre:
 1) cost_price
 2) recommended_retail_price
