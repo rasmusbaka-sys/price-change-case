@@ -13,7 +13,7 @@ Systemet:
 7) Udskriver farvekodet oversigt i terminalen
 Løsningen er designet til at kunne køre som et batch-script uden UI.
 
-Sådan køres løsningen
+Sådan køres løsningen:
 1) Installer afhængigheder
 pip install pandas
 2) Projektstruktur
