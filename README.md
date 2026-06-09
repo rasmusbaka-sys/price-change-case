@@ -2,6 +2,7 @@ Multi-brand prisændringshåndtering (data/indkøb-fokus)
 
 Formål
 Denne løsning automatiserer håndteringen af prisændringer på tværs af flere brands.
+
 Systemet:
 1) Parser leverandørprislister (CSV)
 2) Sammenligner mod eksisterende produktdata
