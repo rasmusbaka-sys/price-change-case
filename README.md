@@ -78,6 +78,7 @@ Løsningen skalerer naturligt fordi:
 2) marginregler ligger i en dictionary
 3) pipeline er brand-agnostisk
 4) DataFrames concat’es dynamisk
+
 For at tilføje et nyt brand:
 1. Tilføj CSV i /data
 2. Tilføj brand i brand_files
