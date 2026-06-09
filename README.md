@@ -55,9 +55,9 @@ Main pipeline (main.py)
 1) Definerer marginregler pr. brand
 2) Tvinger brand-kolonne ind i alle merges
 3) Tilføjer margin-risiko
-4)  Tilføjer auto-approve
-5)  Samler alle brands i én DataFrame
-6)  Eksporterer CSV + Markdown
+4) Tilføjer auto-approve
+5) Samler alle brands i én DataFrame
+6) Eksporterer CSV + Markdown
 
 Auto-approve logik
 Et produkt auto-approves hvis:
@@ -85,7 +85,7 @@ For at tilføje et nyt brand:
 3. Tilføj marginregel i MARGIN_RULES
 Ingen ændringer i logikken er nødvendige.
 
-Hvad jeg ikke ville automatisere
+Hvad jeg ikke ville automatisere:
 1. Store prisfald (>10%)
 2. Produkter med negativ margin
 3. Currency mismatch
