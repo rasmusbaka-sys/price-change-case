@@ -1,0 +1,16 @@
+sku,cost_price_old,recommended_retail_price_old,currency_old,cost_price_new,recommended_retail_price_new,currency_new,price_change,percent_change,price_flag,margin_old,margin_new,margin_change_pp,reasoning,price_flag_colored,brand,margin_risk,auto_approve
+A1001,40.0,79.0,DKK,40,79,DKK,0.0,0.0,Uændret,0.494,0.494,0.0,Pris uændret. Margin ændrede sig fra 49.4% til 49.4% (0.0 pp). Margin OK.,[93mUændret[0m,BrandA,OK,AUTO-APPROVE
+A1002,50.0,99.0,DKK,55,109,DKK,10.0,10.1,Stigning,0.495,0.495,0.0,Pris steg med 10.1%. Margin ændrede sig fra 49.5% til 49.5% (0.0 pp). Margin OK.,[91mStigning[0m,BrandA,OK,AUTO-APPROVE
+A1003,32.0,59.0,DKK,32,59,DKK,0.0,0.0,Uændret,0.458,0.458,0.0,Pris uændret. Margin ændrede sig fra 45.8% til 45.8% (0.0 pp). Margin OK.,[93mUændret[0m,BrandA,OK,AUTO-APPROVE
+A1004,80.0,149.0,DKK,80,149,DKK,0.0,0.0,Uændret,0.463,0.463,0.0,Pris uændret. Margin ændrede sig fra 46.3% til 46.3% (0.0 pp). Margin OK.,[93mUændret[0m,BrandA,OK,AUTO-APPROVE
+A1005,22.0,39.0,DKK,22,39,DKK,0.0,0.0,Uændret,0.436,0.436,0.0,Pris uændret. Margin ændrede sig fra 43.6% til 43.6% (0.0 pp). Margin OK.,[93mUændret[0m,BrandA,OK,AUTO-APPROVE
+B2001,60.0,89.0,DKK,60,89,DKK,0.0,0.0,Uændret,0.326,0.326,0.0,Pris uændret. Margin ændrede sig fra 32.6% til 32.6% (0.0 pp). Margin OK.,[93mUændret[0m,BrandB,OK,AUTO-APPROVE
+B2002,70.0,105.0,DKK,72,109,DKK,4.0,3.81,Stigning,0.333,0.339,0.6,Pris steg med 3.81%. Margin ændrede sig fra 33.3% til 33.9% (0.6 pp). Margin OK.,[91mStigning[0m,BrandB,OK,AUTO-APPROVE
+B2003,44.0,75.0,DKK,44,69,DKK,-6.0,-8.0,Fald,0.413,0.362,-5.1,Pris faldt med 8.0%. Margin ændrede sig fra 41.3% til 36.2% (-5.1 pp). Margin OK.,[92mFald[0m,BrandB,OK,AUTO-APPROVE
+B2004,95.0,139.0,DKK,95,139,DKK,0.0,0.0,Uændret,0.317,0.317,0.0,Pris uændret. Margin ændrede sig fra 31.7% til 31.7% (0.0 pp). Margin OK.,[93mUændret[0m,BrandB,OK,AUTO-APPROVE
+B2005,120.0,169.0,DKK,120,169,DKK,0.0,0.0,Uændret,0.29,0.29,0.0,Pris uændret. Margin ændrede sig fra 29.0% til 29.0% (0.0 pp). Margin OK.,[93mUændret[0m,BrandB,UNDER MINIMUM,AUTO-APPROVE
+C3001,50.0,89.0,DKK,50,89,DKK,0.0,0.0,Uændret,0.438,0.438,0.0,Pris uændret. Margin ændrede sig fra 43.8% til 43.8% (0.0 pp). Margin OK.,[93mUændret[0m,BrandC,OK,AUTO-APPROVE
+C3002,65.0,109.0,DKK,65,109,DKK,0.0,0.0,Uændret,0.404,0.404,0.0,Pris uændret. Margin ændrede sig fra 40.4% til 40.4% (0.0 pp). Margin OK.,[93mUændret[0m,BrandC,OK,AUTO-APPROVE
+C3003,38.0,69.0,DKK,38,69,DKK,0.0,0.0,Uændret,0.449,0.449,0.0,Pris uændret. Margin ændrede sig fra 44.9% til 44.9% (0.0 pp). Margin OK.,[93mUændret[0m,BrandC,OK,AUTO-APPROVE
+C3004,100.0,159.0,DKK,120,179,DKK,20.0,12.58,Stigning,0.371,0.33,-4.1,Pris steg med 12.58%. Margin ændrede sig fra 37.1% til 33.0% (-4.1 pp). Margin OK.,[91mStigning[0m,BrandC,OK,AUTO-APPROVE
+C3005,90.0,139.0,DKK,90,139,DKK,0.0,0.0,Uændret,0.353,0.353,0.0,Pris uændret. Margin ændrede sig fra 35.3% til 35.3% (0.0 pp). Margin OK.,[93mUændret[0m,BrandC,OK,AUTO-APPROVE
